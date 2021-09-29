@@ -22,10 +22,6 @@ TODO: Write usage instructions
 
 TODO: Write history
 
-## Credits
-
-TODO: Write credits
-
 ## License
 
 TODO: Write license
