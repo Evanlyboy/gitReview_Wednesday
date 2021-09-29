@@ -1,1 +1,1 @@
-My Awesome Chainsaw Juggling Team
+My Awesome Sword Swallowing Team
